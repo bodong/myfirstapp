@@ -1,4 +1,4 @@
-package com.example.myfirstapp;
+package com.lifefortress.myfirstapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
