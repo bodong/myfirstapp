@@ -1,2 +1,2 @@
-# myfirstapp
-simple first android application
+# simple android app 
+simple android application
